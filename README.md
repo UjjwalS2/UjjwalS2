@@ -6,7 +6,7 @@ I build **end-to-end data and AI systems** that combine analytics, machine learn
 
 🔭 Currently building: **AI agents, RAG systems, financial analytics, and data-driven applications**  
 💡 Interested in: **Data Science, ML Engineering, Generative AI, NLP, and Decision Analytics**  
-📫 Email: **ujjwalyash31@gmail.com**  
+📫 Email: **ujjwalsinha083@gmail.com**  
 🔗 GitHub: **https://github.com/UjjwalS2**
 
 ---
